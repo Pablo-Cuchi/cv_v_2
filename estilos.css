@@ -69,7 +69,7 @@ footer{
 aside {
    
     float:left;
-    width:20% ;
+    width:22% ;
     background-color: #5c8e8fa0;
     height: 78rem;
     display: flow-root;
@@ -79,7 +79,7 @@ aside {
 }
 
 #datos_personales {
-    list-style: none;
+    
     margin-left: 0em;
     text-align:left;
     padding-left: 0.5px;
